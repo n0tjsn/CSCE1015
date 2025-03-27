@@ -2,8 +2,7 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 
-YOUR_EUID
+jiu0009
 
 ## Favorite Linux Command
 cat
-$cat
